@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.tappadday.rsguy"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Tappad</name>
+
+  <description>
+      Tappad is A TEST
+  </description>
+
+  <author href="https://phonegap.com" email="redstoneguy.lel@gmail.com">
+      Redstone Guy
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
